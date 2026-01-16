@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'Meu Site - Landing',
-  description: 'Landing page de negócios — foco em conversão',
+  description: 'Landing page de negócios — foco em conversão'
 };
 
 export default function Home() {
