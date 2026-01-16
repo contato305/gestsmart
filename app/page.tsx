@@ -8,7 +8,7 @@ export default function Home() {
     <main className="min-h-screen bg-gray-50 text-gray-900">
       <header className="bg-white shadow">
         <div className="max-w-6xl mx-auto px-6 py-6 flex justify-between items-center">
-          <h1 className="text-2xl font-bold">Minha Empresa</h1>
+          <h1>GestSmart</h1>
           <nav>
             <a href="#servicos" className="px-4">Serviços</a>
             <a href="#sobre" className="px-4">Sobre</a>
